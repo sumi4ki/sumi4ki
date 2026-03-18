@@ -2,7 +2,7 @@
 
 情報工学を幅広く学んでいて、研究では画像処理を専攻しています</br>
 ポートフォリオサイト（Notion）はこちら↓（作成中）。</br>
-- https://www.notion.so/32734871d53f80138925f8b30fdc8523
+URL: https://www.notion.so/32734871d53f80138925f8b30fdc8523
 
 * ZouzeiMegane
   * Unity1Weekで制作した作品を改善中
