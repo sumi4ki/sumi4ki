@@ -4,6 +4,12 @@
 ポートフォリオサイト（Notion）はこちら↓（作成中）。</br>
 - https://www.notion.so/32734871d53f80138925f8b30fdc8523
 
+* ZouzeiMegane
+  * Unity1Weekで制作した作品を改善中
+* Rungame_face
+  * 顔検出を利用した体を使うランゲーム
+* breakout_arrow
+  * C#のクラス設計練習。今後、新規ゲーム要素を含める予定。
 <!--
 **sumi4ki/sumi4ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
