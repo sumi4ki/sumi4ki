@@ -1,4 +1,8 @@
-## Hi there 👋
+## こんにちは👋 sumi4ki(as sumiaki)です
+
+理系学生で、情報工学を学んでいて研究では画像処理を専攻しています</br>
+ポートフォリオサイト（Notion）は現在作成中です。</br>
+- https://www.notion.so/32734871d53f80138925f8b30fdc8523
 
 <!--
 **sumi4ki/sumi4ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
