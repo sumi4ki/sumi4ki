@@ -9,7 +9,7 @@ URL: https://www.notion.so/32734871d53f80138925f8b30fdc8523
 * Rungame_face
   * 顔検出を利用した体を使うランゲーム
 * breakout_arrow
-  * C#のクラス設計練習。今後、新規ゲーム要素を含める予定。
+  * C#のクラス設計練習。複雑な衝突判定の実装。今後、新規ゲーム要素を含める予定。
 <!--
 **sumi4ki/sumi4ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
