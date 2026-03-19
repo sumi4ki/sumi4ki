@@ -8,6 +8,10 @@ URL: https://www.notion.so/32734871d53f80138925f8b30fdc8523
   * Unity1Weekで制作した作品を改善中
 * Rungame_face
   * 顔検出を利用した体を使うランゲーム
+* 阿吽の呼吸
+  * 2人プレイ、ミニゲーム主体のコマンドゲーム。
+  * [ま◯お][きこる]を担当。
+  * URL：https://github.com/Haruhiro0518/AunNoKokyuu
 * breakout_arrow
   * C#のクラス設計練習。複雑な衝突判定の実装。今後、新規ゲーム要素を含める予定。
 <!--
