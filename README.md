@@ -1,7 +1,7 @@
 ## 👋 sumi4ki(as sumiaki)です
 
 知能情報コース所属です。研究では画像処理を専攻しています</br>
-ポートフォリオサイト(Notionで作成中): https://www.notion.so/32734871d53f80138925f8b30fdc8523
+ポートフォリオサイト(Notion): https://www.notion.so/32734871d53f80138925f8b30fdc8523
 
 * ZouzeiMegane
   * Unity1Weekで制作した作品を改善中。Mainシーンを主に担当。チーム開発（2人）
